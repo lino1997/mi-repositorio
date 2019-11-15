@@ -1,5 +1,5 @@
-[GitHub Logo](/descargas/chino.jpg)
-Format: ![loli](/descargas/chino.jpg)
+[GitHub Logo](/descargas/rden/chino.jpg)
+Format: ![...](/descargas/rden/chino.jpg)
 # mi-repositorio
 1. aprendendo markdown
 1. listas
