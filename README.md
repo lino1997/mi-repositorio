@@ -1,5 +1,5 @@
 [GitHub Logo](/descargas/rden/chino.jpg)
-Format: ![...](/descargas/rden/chino.jpg)
+Format: ![...](https://github.com/lino1997/mi-repositorio/blob/master/1027789.jpg?raw=true)
 # mi-repositorio
 1. aprendendo markdown
 1. listas
